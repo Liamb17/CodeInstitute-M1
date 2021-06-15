@@ -21,6 +21,7 @@ The aim of this project is to build a responsive website with HTML and CSS using
         - [As a business owner](#as-a-business-owner)
         - [As a new customer](#as-a-new-customer)
     - [Structure of the website](#structure-of-the-website)
+    - [Wireframes](#wireframes)
 
 
 # UX
@@ -49,3 +50,8 @@ The purpose of this website is for bcoding to present themselves and their brand
 
 ## Structure of the website
 The website has been designed to be beautiful on all devices, easy to navigate and user friendly on all types of device. There will be no difference for the user when navigating on different device types and a user will not have a negative experience or miss out on features because they are on a smaller screen or different device. Buttons and links have been designed to be interactive and have hover effects to help the user identify that these are links and improve the experience.
+
+## Wireframes
+I used Balsamiq Wireframes to create a wireframes.
+
+### [View Wire Frame Pictures Here](md_files/wireframes/wireframes.pdf)
