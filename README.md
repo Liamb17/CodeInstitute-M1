@@ -1,59 +1,51 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Bcoding coding agency website
 
-Welcome USER_NAME,
+## User-Centric Frontend Development Milestone Project.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+The website will present Bcoding's services and case studies as a coding agency to potential clients. 
+Visitors to the website will be able to quickly and easily see what services the agency offers and able to contact Bcoding to discuss potential business.
 
-## Gitpod Reminders
+This project is for educational purposes and it not to be used as a template business or personal use.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The aim of this project is to build a responsive website with HTML and CSS using the bootstrap framework.
 
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidently make it public then you can create a new one with _Regenerate API Key_.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
+## [View bcoding website in github pages](https://liamb17.github.io/CodeInstitute-M1/)
 ---
 
-Happy coding!
+# Table of contents
+
+- [UX](#ux)
+    - [Website owner business goals](#website-owner-business-goals)
+    - [User goals](#user-goals)
+    - [User stories](#user-stories)
+        - [As a business owner](#as-a-business-owner)
+        - [As a new customer](#as-a-new-customer)
+    - [Structure of the website](#structure-of-the-website)
+
+
+# UX
+
+## Website owner business goals
+The purpose of this website is for bcoding to present themselves and their brand as a website coding/design agency/business. The website is the best place for the business to showcase case studies to future clients and provide an easy to contact
+
+## User goals
+
+* user can find information about services
+* user is able to find contact details for business
+* user can submit a contact form to send a message to the business.
+
+
+## User stories
+
+### As a business owner:
+* I would like to present our website development services clearly to potential customers.
+* I want customers to be able to contact us easily.
+* I need to clearly explain to potential customers what software/languages we work on.
+
+### As a new customer:
+* I wish to easily identify what the business does and offers.
+* I would like to contact bcoding to discuss how they can help with my website.
+* I want to be able to easily see what software the company works with.
+
+## Structure of the website
+The website has been designed to be beautiful on all devices, easy to navigate and user friendly on all types of device. There will be no difference for the user when navigating on different device types and a user will not have a negative experience or miss out on features because they are on a smaller screen or different device. Buttons and links have been designed to be interactive and have hover effects to help the user identify that these are links and improve the experience.
