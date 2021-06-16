@@ -1,15 +1,15 @@
-# Bcoding coding agency website
+# B-Coding coding agency website
 
 ## User-Centric Frontend Development Milestone Project.
 
-The website will present Bcoding's services and case studies as a coding agency to potential clients. 
-Visitors to the website will be able to quickly and easily see what services the agency offers and able to contact Bcoding to discuss potential business.
+The website will present B-Coding's services and case studies as a coding agency to potential clients. 
+Visitors to the website will be able to quickly and easily see what services the agency offers and able to contact B-Coding to discuss potential business.
 
 This project is for educational purposes and it not to be used as a template business or personal use.
 
 The aim of this project is to build a responsive website with HTML and CSS using the bootstrap framework.
 
-## [View bcoding website in github pages](https://liamb17.github.io/CodeInstitute-M1/)
+## [View B-Coding website in github pages](https://liamb17.github.io/CodeInstitute-M1/)
 ---
 
 # Table of contents
@@ -27,7 +27,7 @@ The aim of this project is to build a responsive website with HTML and CSS using
 # UX
 
 ## Website owner business goals
-The purpose of this website is for bcoding to present themselves and their brand as a website coding/design agency/business. The website is the best place for the business to showcase case studies to future clients and provide an easy to contact
+The purpose of this website is for B-Coding to present themselves and their brand as a website coding/design agency/business. The website is the best place for the business to showcase case studies to future clients and provide an easy to contact
 
 ## User goals
 
@@ -45,7 +45,7 @@ The purpose of this website is for bcoding to present themselves and their brand
 
 ### As a new customer:
 * I wish to easily identify what the business does and offers.
-* I would like to contact bcoding to discuss how they can help with my website.
+* I would like to contact B-Coding to discuss how they can help with my website.
 * I want to be able to easily see what software the company works with.
 
 ## Structure of the website
