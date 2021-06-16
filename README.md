@@ -22,6 +22,7 @@ The aim of this project is to build a responsive website with HTML and CSS using
         - [As a new customer](#as-a-new-customer)
     - [Structure of the website](#structure-of-the-website)
     - [Wireframes](#wireframes)
+- [Technology](#technology-used)
 - [Testing](#testing)
 
 
@@ -56,6 +57,32 @@ The website has been designed to be beautiful on all devices, easy to navigate a
 I used Balsamiq Wireframes to create a wireframes.
 
 ### [View Wire Frame Pictures Here](md_files/wireframes/wireframes.pdf)
+
+# Technology used
+
+### HTML5
+* As the structure language.
+
+### CSS
+* As the style language.
+
+### Bootstrap
+* Bootstrap@5.0.1 as the CSS framework to use a responsive, mobile first approach.
+
+### Google fonts
+* Provides font resources.
+
+### GitHub
+* As a software hosting platform to keep project in a remote location.
+
+### Git
+* For version-control system tracking.
+
+### Gitpod
+* Development hosting platform and editor
+
+### Balsamiq Wireframes
+* As a wireframing tool.
 
 # Testing
 
