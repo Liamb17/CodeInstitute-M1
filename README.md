@@ -22,6 +22,7 @@ The aim of this project is to build a responsive website with HTML and CSS using
         - [As a new customer](#as-a-new-customer)
     - [Structure of the website](#structure-of-the-website)
     - [Wireframes](#wireframes)
+- [Testing](#testing)
 
 
 # UX
@@ -55,3 +56,14 @@ The website has been designed to be beautiful on all devices, easy to navigate a
 I used Balsamiq Wireframes to create a wireframes.
 
 ### [View Wire Frame Pictures Here](md_files/wireframes/wireframes.pdf)
+
+# Testing
+
+## Functionality testing
+I have used Chrome developer tools throughout the project for testing and ensuring this was displaying correctly and working efficiently on all responsive views.
+
+## Code Validation
+Throughout the project i have used the following websites to validate the code to ensure this meets the required industry standard.
+
+ * [W3C Markup Validator](https://validator.w3.org/) to validate HTML
+ * [W3C CSS Validator](http://jigsaw.w3.org/css-validator/) to validate CSS
