@@ -19,9 +19,18 @@
     color: #585151;
 }
 
+.bg-navy {
+    background-color: #394148 !important;
+}
+
 /*** 4.0 - Color Palette ***/
 
 /*** 5.0 - Header ***/
+.navbar-brand i {
+    font-size: 40px;
+    line-height: 25px;
+    vertical-align: middle;
+}
 
 /*** 6.0 - Body ***/
 body {
