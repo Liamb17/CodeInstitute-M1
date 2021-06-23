@@ -23,6 +23,7 @@ The aim of this project is to build a responsive website with HTML and CSS using
     - [Structure of the website](#structure-of-the-website)
     - [Wireframes](#wireframes)
     - [Surface](#surface)
+- [Features](#features)
 - [Technology](#technology-used)
 - [Testing](#testing)
 
@@ -73,6 +74,43 @@ Main colours used in a project:
 
 ## Images
 * I used images from unsplash.com and they are credited in credits section.
+
+# Features
+The website consists of four pages.  Three are accessible from a navigation menu, the fourth page is a 404 error page that is in place incase the user visits a page that doesn't exist.
+
+The website has the features detailed below:
+
+## Navigation bar
+* Navigation bar is visible on the top of each web page. It is responsive and will adapt to mobile devices by changing into a burger menu.
+* Navigation scheme:
+    * On left side there is a logo. It can be used as navigation link to the main page.
+    * On right side there are four links or burger menu. It contains:
+        * Home
+        * Services
+        * Case Studies
+        * Contact
+
+## Footer
+* Footer is present and the same on all pages. This showcases the technologies the company uses and a description about the business. This also has the same links that are easily reachable as in the header navigation.
+
+## Home
+* Hero/Banner section
+    * At the top of the page there is a big banner, with a bold, simple statement " We make beautiful websites." - Very clear and to the point, tells the customer exactly what the business does.
+
+* Services section
+    * This shows a breakdown of 3 of the services offered, this is showcased in 3 seperate boxes 
+
+## Services
+* Services gives information about what the business offers and how the services are carried out
+
+## Case Studies
+* Case studies show cases previous customers work and projects that have been completed.
+
+## Contact
+* The contact page is the page that we want to funnel all visitors towards. This provide the business with a lead and allows the potential customer to start contacting the business and reach out. There is an easy to use contact form on this page.
+
+## Future implementations
+* Login site for customers to track projects and support requests
 
 # Technology used
 
