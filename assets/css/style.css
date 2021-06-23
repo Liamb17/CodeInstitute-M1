@@ -40,6 +40,11 @@
 }
 
 /*** 6.0 - Body ***/
+html,
+body {
+    height: 100%;
+}
+
 body {
     padding-top: 56px;
     color: #3f3c3c;
@@ -151,6 +156,10 @@ body {
 
 .servicesbox h4 {
     text-align: center;
+}
+
+.error i {
+    font-size: 70px;
 }
 
 @media (min-width: 1200px) {
