@@ -22,6 +22,7 @@ The aim of this project is to build a responsive website with HTML and CSS using
         - [As a new customer](#as-a-new-customer)
     - [Structure of the website](#structure-of-the-website)
     - [Wireframes](#wireframes)
+    - [Surface](#surface)
 - [Technology](#technology-used)
 - [Testing](#testing)
 
@@ -58,6 +59,21 @@ I used Balsamiq Wireframes to create a wireframes.
 
 ### [View Wire Frame Pictures Here](md_files/wireframes/wireframes.pdf)
 
+## Surface
+
+### Colors
+Main colours used in a project:
+* background color: #fff
+* font color: #3f3c3c
+* link color: TBC
+* hover color: TBC
+
+## Fonts
+* The main font used is Montserrat, and as a backup font sans-serif
+
+## Images
+* I used images from unsplash.com and they are credited in credits section.
+
 # Technology used
 
 ### HTML5
@@ -70,7 +86,7 @@ I used Balsamiq Wireframes to create a wireframes.
 * Bootstrap@5.0.1 as the CSS framework to use a responsive, mobile first approach.
 
 ### Google fonts
-* Provides font resources.
+* Provides the font resources.
 
 ### GitHub
 * As a software hosting platform to keep project in a remote location.
