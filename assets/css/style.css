@@ -35,6 +35,9 @@
 /*** 6.0 - Body ***/
 body {
     padding-top: 56px;
+    color: #3f3c3c;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
 }
 
 .heroimage {
@@ -62,8 +65,30 @@ body {
     background-color: #ff7b00;
 }
 
+.heroimage h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .heroimage h2 {
     font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.ourservices h3 {
+    font-size: 36px;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 15px;
+}
+
+.ourservices h3:after {
+    border-bottom: 2px solid #585151;
+    left: calc(50% - 50px);
+    display: block;
+    width: 100px;
+    content: "";
+    position: absolute;
+    margin-top: 5px;
 }
 
 .ourservices h4 {
@@ -132,6 +157,36 @@ body {
 }
 
 /*** 7.0 - Footer ***/
+
+footer h5 {
+    font-size: 26px;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 15px;
+}
+
+footer h5:after {
+    border-bottom: 2px solid #585151;
+    left: calc(50% - 50px);
+    display: block;
+    width: 100px;
+    content: "";
+    position: absolute;
+    margin-top: 5px;
+}
+
+
+footer h5.white-heading {
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+
+footer h5.white-heading:after {
+    border-bottom: 2px solid #fff;
+    left: calc(50% - 25px);
+    width: 50px;
+    margin-top: 10px;
+}
 
 footer a {
     color: white;
