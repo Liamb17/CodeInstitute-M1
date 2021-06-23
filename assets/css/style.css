@@ -169,7 +169,7 @@ footer h5 {
     font-size: 26px;
     position: relative;
     font-family: 'Montserrat', sans-serif;
-    margin-bottom: 15px;
+    margin: 0 0 20px 0;
 }
 
 footer h5:after {
@@ -179,20 +179,18 @@ footer h5:after {
     width: 100px;
     content: "";
     position: absolute;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 
 footer h5.white-heading {
     font-size: 20px;
-    margin: 0 0 20px 0;
 }
 
 footer h5.white-heading:after {
     border-bottom: 2px solid #fff;
     left: calc(50% - 25px);
     width: 50px;
-    margin-top: 10px;
 }
 
 footer a {
