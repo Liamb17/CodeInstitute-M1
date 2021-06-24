@@ -86,23 +86,7 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-.ourservices h3 {
-    font-size: 36px;
-    position: relative;
-    font-family: 'Montserrat', sans-serif;
-    margin-bottom: 15px;
-}
-
-.ourservices h3:after {
-    border-bottom: 2px solid #585151;
-    left: calc(50% - 50px);
-    display: block;
-    width: 100px;
-    content: "";
-    position: absolute;
-    margin-top: 5px;
-}
-
+.ourservices h3,
 .ourservices h1 {
     font-size: 36px;
     position: relative;
@@ -110,6 +94,7 @@ body {
     margin-bottom: 15px;
 }
 
+.ourservices h3:after,
 .ourservices h1:after {
     border-bottom: 2px solid #585151;
     left: calc(50% - 50px);
@@ -156,11 +141,11 @@ body {
 }
 
 .servicesbox.service2:hover {
-    border: 2px solid #425fca;
+    border: 2px solid #de1542;
 }
 
 .servicesbox.service2:hover i {
-    color: #425fca;
+    color: #de1542;
 }
 
 .servicesbox.service3:hover {
@@ -169,6 +154,30 @@ body {
 
 .servicesbox.service3:hover i {
     color: #9c42ca;
+}
+
+.servicesbox.service4:hover {
+    border: 2px solid #52ca42;
+}
+
+.servicesbox.service4:hover i {
+    color: #52ca42;
+}
+
+.servicesbox.service5:hover {
+    border: 2px solid #425fca;
+}
+
+.servicesbox.service5:hover i {
+    color: #425fca;
+}
+
+.servicesbox.service6:hover {
+    border: 2px solid #fc8232;
+}
+
+.servicesbox.service6:hover i {
+    color: #fc8232;
 }
 
 .servicesbox h4 {
