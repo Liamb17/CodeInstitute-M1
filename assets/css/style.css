@@ -35,6 +35,7 @@
     background-color: #ff7b00;
     color: #ececec;
 }
+
 /*** 5.0 - Header ***/
 .navbar-brand i {
     font-size: 40px;
@@ -62,19 +63,21 @@ body {
     font-weight: 400;
 }
 
-.heroimage {
+.hero-container {
     /** Credit for image @ https://unsplash.com/photos/VieM9BdZKFo **/
     /* fallback */
     background: #e9e9e9;
-    /* fallback */
+    background: linear-gradient(166deg, rgb(243 243 243) 0%, rgb(241 241 241) 98%);
+    border-radius: 0 0 5px 5px;
+}
+
+.heroimage {
+    /** Credit for image @ https://unsplash.com/photos/VieM9BdZKFo **/
     background: url("../images/hero.jpg");
-    background: url("../images/hero.jpg"), linear-gradient(166deg, rgb(243 243 243) 0%, rgb(241 241 241) 98%);
-    height: 300px;
-    background-position-y: top;
-    background-position-x: right;
+    height: 350px;
+    background-position: top 0px right -90px;
     background-size: auto 100%;
     background-repeat: no-repeat;
-    border-radius: 0 0 5px 5px;
 }
 
 .heroimage h1 {
@@ -186,6 +189,24 @@ body {
 
 .error i {
     font-size: 70px;
+}
+
+@media (min-width: 576px) {
+    .heroimage {
+        background-position: top 0px right -70px;
+    }
+}
+
+@media (min-width: 768px) {
+    .heroimage {
+        background-position: top 0px right -40px;
+    }
+}
+
+@media (min-width: 992px) {
+    .heroimage {
+        background-position: top right;
+    }
 }
 
 @media (min-width: 1200px) {
