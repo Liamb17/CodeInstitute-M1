@@ -25,6 +25,16 @@
 
 /*** 4.0 - Color Palette ***/
 
+.btn-orange {
+    background-color: #fd650d;
+    border-color: #ce713b;
+    color: #ececec;
+}
+
+.btn-orange:hover {
+    background-color: #ff7b00;
+    color: #ececec;
+}
 /*** 5.0 - Header ***/
 .navbar-brand i {
     font-size: 40px;
@@ -65,16 +75,6 @@ body {
     background-size: auto 100%;
     background-repeat: no-repeat;
     border-radius: 0 0 5px 5px;
-}
-
-.heroimage .btn {
-    background-color: #fd650d;
-    border-color: #ce713b;
-    color: #ececec;
-}
-
-.heroimage .btn:hover {
-    background-color: #ff7b00;
 }
 
 .heroimage h1 {
