@@ -76,7 +76,7 @@ Main colours used in a project:
 * I used images from unsplash.com and they are credited in credits section.
 
 # Features
-The website consists of four pages.  Three are accessible from a navigation menu, the fourth page is a 404 error page that is in place incase the user visits a page that doesn't exist.
+The website consists of five pages.  Four are accessible from a navigation menu, the fifth page is a 404 error page that is in place incase the user visits a page that doesn't exist.
 
 The website has the features detailed below:
 
@@ -84,18 +84,18 @@ The website has the features detailed below:
 * Navigation bar is visible on the top of each web page. It is responsive and will adapt to mobile devices by changing into a burger menu.
 * Navigation scheme:
     * On left side there is a logo. It can be used as navigation link to the main page.
-    * On right side there are four links or burger menu. It contains:
+    * On right side there are four links or a burger menu if in responsive mode. It contains:
         * Home
         * Services
         * Case Studies
         * Contact
 
 ## Footer
-* Footer is present and the same on all pages. This showcases the technologies the company uses and a description about the business. This also has the same links that are easily reachable as in the header navigation.
+* The footer is present and the same on all pages. This showcases the technologies the company works with and a small description about the business. This also has the same links that are easily reachable as in the header navigation.
 
 ## Home
 * Hero/Banner section
-    * At the top of the page there is a big banner, with a bold, simple statement " We make beautiful websites." - Very clear and to the point, tells the customer exactly what the business does.
+    * At the top of the page there is a big banner, with a bold, simple statement "We make beautiful websites." - Very clear and to the point, tells the customer exactly what the business does without needing to look further.
 
 * Services section
     * This shows a breakdown of 3 of the services offered, this is showcased in 3 seperate boxes 
