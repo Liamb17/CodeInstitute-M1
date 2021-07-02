@@ -90,7 +90,8 @@ body {
 }
 
 .ourservices h3,
-.ourservices h1 {
+.ourservices h1,
+.contact-header h1 {
     font-size: 36px;
     position: relative;
     font-family: 'Montserrat', sans-serif;
@@ -98,7 +99,8 @@ body {
 }
 
 .ourservices h3:after,
-.ourservices h1:after {
+.ourservices h1:after,
+.contact-header h1:after {
     border-bottom: 2px solid #585151;
     left: calc(50% - 50px);
     display: block;
