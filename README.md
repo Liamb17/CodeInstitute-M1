@@ -58,7 +58,7 @@ The website has been designed to be beautiful on all devices, easy to navigate a
 ## Wireframes
 I used Balsamiq Wireframes to create a wireframes.
 
-### [View Wire Frame Pictures Here](md_files/wireframes/wireframes.pdf)
+### [View Wire Frame Pictures Here](docs/wireframes/wireframes.pdf)
 
 ## Surface
 
