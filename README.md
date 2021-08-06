@@ -26,6 +26,11 @@ The aim of this project is to build a responsive website with HTML and CSS using
 - [Features](#features)
 - [Technology](#technology-used)
 - [Testing](#testing)
+    - [Functionality testing](#functionality-testing)
+    - [Code Validation](#code-validation)
+    - [User stories testing](#User-stories-testing)
+        - [Testing as a business owner](#testing-as-a-business-owner)
+        - [Testing as a new customer](#testing-as-a-new-customer)
 
 
 # UX
@@ -66,8 +71,8 @@ I used Balsamiq Wireframes to create a wireframes.
 Main colours used in a project:
 * background color: #fff
 * font color: #3f3c3c
-* link color: TBC
-* hover color: TBC
+* link color: #fd650d
+* hover color: #ff7b00
 
 ## Fonts
 * The main font used is Montserrat, and as a backup font sans-serif
@@ -148,3 +153,25 @@ Throughout the project i have used the following websites to validate the code t
 
  * [W3C Markup Validator](https://validator.w3.org/) to validate HTML
  * [W3C CSS Validator](http://jigsaw.w3.org/css-validator/) to validate CSS
+
+## User stories testing
+
+### Testing as a business owner:
+- I would like to present our website development services clearly to potential customers.
+    > Key website development services are clearly presented on the homepage within the our services section. More details are services are presented on the individual services pages
+
+- I want customers to be able to contact us easily.
+    > Customers are funneled to the contact page on all pages with easy to use call to action buttons. There is also a contact link in the menu which is always present.
+
+- I need to clearly explain to potential customers what software/languages we work on.
+    > This has been achieved by presenting the technology and software that B-Coding uses in the footer of all pages.
+
+### Testing as a new customer:
+- I wish to easily identify what the business does and offers.
+    > User can easily identify what the business does when viewing the homepage with the immediate hero caption "We make beautiful websites."
+
+- I would like to contact B-Coding to discuss how they can help with my website.
+    > New customers can easily contact B-Coding with the call to action navigating to the contact form present on all pages aswell as a contact link in the header navigation.
+
+- I want to be able to easily see what software the company works with.
+    > Users can see the software and technology the company works with clearly at the bottom of every web page. 
