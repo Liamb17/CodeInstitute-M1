@@ -10,6 +10,8 @@ This project is for educational purposes and it not to be used as a template bus
 The aim of this project is to build a responsive website with HTML and CSS using the bootstrap framework.
 
 ## [View B-Coding website in github pages](https://liamb17.github.io/CodeInstitute-M1/)
+![Responsive Design](https://github.com/liamb17/CodeInstitute-M1/blob/master/docs/screenshots/preview.png?raw=true)
+
 ---
 
 # Table of contents
