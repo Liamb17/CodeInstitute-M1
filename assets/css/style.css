@@ -193,9 +193,26 @@ body {
     font-size: 70px;
 }
 
+.card-img-top {
+    width: 100%;
+    max-height: 35vw;
+    object-fit: cover;
+}
+
+.card .card-title {
+    text-align: center;
+}
+
+.card .card-text {
+    text-align: justify;
+}
+
 @media (min-width: 576px) {
     .heroimage {
         background-position: top 0px right -70px;
+    }
+    .card-img-top {
+        max-height: 25vw;
     }
 }
 
@@ -203,11 +220,19 @@ body {
     .heroimage {
         background-position: top 0px right -40px;
     }
+
+    .card-img-top {
+        max-height: 20vw;
+    }
 }
 
 @media (min-width: 992px) {
     .heroimage {
         background-position: top right;
+    }
+
+    .card-img-top {
+        max-height: 14vw;
     }
 }
 
