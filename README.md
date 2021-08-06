@@ -73,7 +73,7 @@ Main colours used in a project:
 * The main font used is Montserrat, and as a backup font sans-serif
 
 ## Images
-* I used images from unsplash.com and they are credited in credits section.
+* I used images from [unsplash.com](unsplash.com) and they are credited in credits section.
 
 # Features
 The website consists of five pages.  Four are accessible from a navigation menu, the fifth page is a 404 error page that is in place incase the user visits a page that doesn't exist.
