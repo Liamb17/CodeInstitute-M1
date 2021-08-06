@@ -128,6 +128,9 @@ The website has the features detailed below:
 ### Bootstrap
 * Bootstrap@5.0.1 as the CSS framework to use a responsive, mobile first approach.
 
+### Font Awesome
+* As an icon library for icons on the website
+
 ### Google fonts
 * Provides the font resources.
 
