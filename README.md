@@ -35,6 +35,7 @@ The aim of this project is to build a responsive website with HTML and CSS using
     - [GitHub Pages](#github-pages)
     - [Forking the GitHub Repository](#forking-the-github-repository)
     - [Making a Local Clone](#making-a-local-clone)
+- [Credits](#credits)
 
 
 # UX
@@ -232,3 +233,39 @@ $ git clone https://github.com/Liamb17/CodeInstitute-M1
 ```
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+
+## Credits
+
+### Code
+
+-   [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System, I also used this libary for navbar, hero container and card from Bootstrap.
+
+### Content
+
+-   All content was written by the developer.
+
+### Media - Images
+
+* [hero.jpg](https://unsplash.com/photos/VieM9BdZKFo)
+* [casestudy-projectplanning.jpg](https://unsplash.com/photos/tZc3vjPCk-Q)
+* [casestudy-photographer.jpg](https://unsplash.com/photos/-heLWtuAN3c)
+* [casestudy-dashboard.jpg](https://unsplash.com/photos/JKUTrJ4vK00)
+* [django-logo](https://www.djangoproject.com/community/logos/)
+* [git-logo.jpg](https://git-scm.com/downloads/logos)
+* [magento-logo.jpg](https://en.wikipedia.org/wiki/File:Magento.svg)
+* [mysql-logo.jpg](https://www.mysql.com/about/legal/logos.html)
+* [php-logo.jpg](https://www.php.net/download-logos.php)
+* [python-logo.jpg](https://www.python.org/community/logos/)
+
+### Media - Fonts
+Fonts were imported from Google Fonts
+
+### README
+
+I have used the following README's as guides to base my README
+* [https://github.com/Code-Institute-Solutions/SampleREADME](https://github.com/Code-Institute-Solutions/SampleREADME)
+* [https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md](https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md)
+
+### Acknowledgements
+
+-   My Mentor for helpful feedback.
