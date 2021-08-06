@@ -119,31 +119,31 @@ The website has the features detailed below:
 
 # Technology used
 
-### HTML5
+### [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * As the structure language.
 
-### CSS
+### [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 * As the style language.
 
-### Bootstrap
+### [Bootstrap 5.0.1:](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 * Bootstrap@5.0.1 as the CSS framework to use a responsive, mobile first approach.
 
-### Font Awesome
+### [Font Awesome](https://fontawesome.com/)
 * As an icon library for icons on the website
 
-### Google fonts
+### [Google Fonts](https://fonts.google.com/)
 * Provides the font resources.
 
-### GitHub
+### [GitHub:](https://github.com/)
 * As a software hosting platform to keep project in a remote location.
 
-### Git
+### [Git](https://git-scm.com/)
 * For version-control system tracking.
 
-### Gitpod
+### [Gitpod](https://www.gitpod.io/)
 * Development hosting platform and editor
 
-### Balsamiq Wireframes
+### [Balsamiq Wireframes](https://balsamiq.com/)
 * As a wireframing tool.
 
 # Testing
