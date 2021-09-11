@@ -39,6 +39,9 @@ The aim of this project is to build a responsive website with HTML and CSS using
     - [Forking the GitHub Repository](#forking-the-github-repository)
     - [Making a Local Clone](#making-a-local-clone)
 - [Credits](#credits)
+- [Screenshots](#screenshots)
+    - [Desktop Screenshots](#desktop-screenshots)
+    - [Mobile Screenshots](#mobile-screenshots)
 
 
 # UX
@@ -281,3 +284,19 @@ I have used the following README's as guides to base my README
 ### Acknowledgements
 
 -   My Mentor for helpful feedback.
+
+## Screenshots
+
+### Desktop Screenshots
+
+![Homepage Screenshot](https://github.com/liamb17/CodeInstitute-M1/blob/master/docs/screenshots/homepage.png?raw=true)
+![Services Screenshot](https://github.com/liamb17/CodeInstitute-M1/blob/master/docs/screenshots/services.png?raw=true)
+![Case Studies Screenshot](https://github.com/liamb17/CodeInstitute-M1/blob/master/docs/screenshots/casestudies.png?raw=true)
+![Contact Screenshot](https://github.com/liamb17/CodeInstitute-M1/blob/master/docs/screenshots/contact.png?raw=true)
+
+### Mobile Screenshots
+
+![Homepage Mobile Screenshot](https://github.com/liamb17/CodeInstitute-M1/blob/master/docs/screenshots/homepage-mobile.png?raw=true)
+![Services Mobile Screenshot](https://github.com/liamb17/CodeInstitute-M1/blob/master/docs/screenshots/services-mobile.png?raw=true)
+![Case Studies Mobile Screenshot](https://github.com/liamb17/CodeInstitute-M1/blob/master/docs/screenshots/casestudies-mobile.png?raw=true)
+![Contact Mobile Screenshot](https://github.com/liamb17/CodeInstitute-M1/blob/master/docs/screenshots/contact-mobile.png?raw=true)
