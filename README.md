@@ -33,6 +33,7 @@ The aim of this project is to build a responsive website with HTML and CSS using
     - [User stories testing](#user-stories-testing)
         - [Testing as a business owner](#testing-as-a-business-owner)
         - [Testing as a new customer](#testing-as-a-new-customer)
+    - [Performance and Accessibility testing](#performance-and-accessibility-testing)
 - [Deployment](#deployment)
     - [GitHub Pages](#github-pages)
     - [Forking the GitHub Repository](#forking-the-github-repository)
@@ -185,6 +186,15 @@ Throughout the project i have used the following websites to validate the code t
 
 - I want to be able to easily see what software the company works with.
     > Users can see the software and technology the company works with clearly at the bottom of every web page. 
+
+## Performance and Accessibility testing
+Once development was completed i ran [Lighthouse](https://developers.google.com/web/tools/lighthouse/) tool to check performance and accessibility of the website.
+Within the initial results it highlighted the menu navigation had a colour contrast issue on the menu items that wasn't active. This was resolved by adjusting the colours slightly, otherwise the performance results was very good.
+
+![Light House Summary](docs/screenshots/testing-lighthouse-1.png)
+![Light House Accessibility Issue](docs/screenshots/testing-lighthouse-1.png)
+
+After resolving the menu navigation accessibility issue, [Lighthouse](https://developers.google.com/web/tools/lighthouse/) still raised an issue with the colour contrast of the orange call to action button on most pages. While this is reporting the constrast isn't acceptable, studies have shown that white text with an orange background is easier to read than black text ([source](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/)). Despite this failing the accessibility check i have decided to leave this in as the design is supposed to satisfy what people see, not computational algorithms. I have tweaked the colour and size slightly to ensure this remains clear to the visitor. 
 
 ## Deployment
 
