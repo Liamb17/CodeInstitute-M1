@@ -47,7 +47,7 @@ The aim of this project is to build a responsive website with HTML and CSS using
 # UX
 
 ## Website owner business goals
-The purpose of this website is for B-Coding to present themselves and their brand as a website coding/design agency/business. The website is the best place for the business to showcase case studies to future clients and provide an easy to contact
+The purpose of this website is for B-Coding to present themselves and their brand as a website coding/design agency/business. The website is the best place for the business to showcase existing customer case studies to future clients and provide an easy method for future customers to contact the business.
 
 ## User goals
 
@@ -69,7 +69,7 @@ The purpose of this website is for B-Coding to present themselves and their bran
 * I want to be able to easily see what software the company works with.
 
 ## Structure of the website
-The website has been designed to be beautiful on all devices, easy to navigate and user friendly on all types of device. There will be no difference for the user when navigating on different device types and a user will not have a negative experience or miss out on features because they are on a smaller screen or different device. Buttons and links have been designed to be interactive and have hover effects to help the user identify that these are links and improve the experience.
+The website has been designed to be beautiful, easy to navigate and user friendly on all types of devices. There will be no difference for the user when navigating on different device types and a user will not have a negative experience or miss out on features because they are on a smaller screen or different device. Buttons and links have been designed to be interactive and have hover effects to help the user identify that these are links and improve the experience.
 
 ## Wireframes
 I used Balsamiq Wireframes to create a wireframes.
@@ -120,10 +120,10 @@ The website has the features detailed below:
 * Services gives information about what the business offers and how the services are carried out
 
 ## Case Studies
-* Case studies show cases previous customers work and projects that have been completed.
+* Case studies showcases previous customers work and projects that have been completed.
 
 ## Contact
-* The contact page is the page that we want to funnel all visitors towards. This provide the business with a lead and allows the potential customer to start contacting the business and reach out. There is an easy to use contact form on this page.
+* The contact page is the page that we want to funnel all visitors towards. This provides the business with a lead and allows the potential customer to start contacting the business and reach out. There is an easy to use contact form on this page.
 
 ## Future implementations
 * Login site for customers to track projects and support requests
@@ -160,7 +160,7 @@ The website has the features detailed below:
 # Testing
 
 ## Functionality testing
-I have used Chrome developer tools throughout the project for testing and ensuring this was displaying correctly and working efficiently on all responsive views.
+I have used Chrome developer tools for testing and ensuring this was displaying correctly and working efficiently on all responsive views throughout the project.
 
 ## Code Validation
 Throughout the project i have used the following websites to validate the code to ensure this meets the required industry standard.
@@ -172,7 +172,7 @@ Throughout the project i have used the following websites to validate the code t
 
 ### Testing as a business owner:
 - I would like to present our website development services clearly to potential customers.
-    > Key website development services are clearly presented on the homepage within the our services section. More details are services are presented on the individual services pages
+    > Key website development services are clearly presented on the homepage within the our services section. More details of services are presented on the individual services pages
 
 - I want customers to be able to contact us easily.
     > Customers are funneled to the contact page on all pages with easy to use call to action buttons. There is also a contact link in the menu which is always present.
@@ -195,7 +195,7 @@ Once development was completed i ran [Lighthouse](https://developers.google.com/
 Within the initial results it highlighted the menu navigation had a colour contrast issue on the menu items that wasn't active. This was resolved by adjusting the colours slightly, otherwise the performance results was very good.
 
 ![Light House Summary](docs/screenshots/testing-lighthouse-1.png)
-![Light House Accessibility Issue](docs/screenshots/testing-lighthouse-1.png)
+![Light House Accessibility Issue](docs/screenshots/testing-lighthouse-2.png)
 
 After resolving the menu navigation accessibility issue, [Lighthouse](https://developers.google.com/web/tools/lighthouse/) still raised an issue with the colour contrast of the orange call to action button on most pages. While this is reporting the constrast isn't acceptable, studies have shown that white text with an orange background is easier to read than black text ([source](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/)). Despite this failing the accessibility check i have decided to leave this in as the design is supposed to satisfy what people see, not computational algorithms. I have tweaked the colour and size slightly to ensure this remains clear to the visitor. 
 
